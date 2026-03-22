@@ -65,13 +65,6 @@ venv/
 # MacOS
 .DS_Store
 
-# Data
-*.csv
-*.tsv
-*.log
-*.dat
-*.db
-*.sqlite
 
 
 deman_forecasting.py
